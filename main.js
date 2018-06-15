@@ -6,7 +6,7 @@ var suggestionCommand = require('./commands/suggestion.js');
 var bugCommand = require('./commands/bug.js');
 
 var config = {
-    token: 'NDU3MjMyNTgxMjMwODU0MTQ0.DgWgNQ.tBzapT5X6MhEaQyv4sL28TaxZGs',
+    token: '',
     logoEmoji: '<:logo:450149200794091520>'
 }
 
